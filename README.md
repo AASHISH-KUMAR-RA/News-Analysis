@@ -1,13 +1,6 @@
 # SIH-2023
 ## Smart India Hackathon 2023 
-## Team Avengers 
-## Team Members- 
-Akash Rout <br>
-Nandini Gera<br>
-Sparsh Singh Bhatia<br>
-Ujjawal Gupta<br>
-Dhruv Goyal<br>
-Ankur Gupta<br>
+## Team Ace - squad 
 
 # Project Name: 
 ## Automated Crawling, Categorization and Sentiment Analysis of Digital News with Incorporated Feedback System. 
@@ -31,11 +24,11 @@ To run the project locally:
 1. Clone the repository:
 
 ```terminal
-git clone https://github.com/iamakashrout/SIH-2023.git
+git clone https://github.com/AASHISH-KUMAR-RA/SIH-23.git
 ```
 - Navigate to project directory.
 ```terminal
-cd SIH-2023
+cd SIH-23
 ```
 
 2. Install dependencies for the client (Next.js):
@@ -87,8 +80,6 @@ python manage.py runserver
 [- Abstract](https://docs.google.com/document/d/16uxjx-_B8r9y3Muj9UF9Te59mdxYftoAy0u3LZxXm_k/edit?usp=sharing)  
 
 [- Description](https://docs.google.com/document/d/1WMexh_AJeoZyrdAbfSyy_lZgD4aRq_PiRC7nJ6Ir4EE/edit?usp=sharing) 
-
-[- Youtube Demo](https://www.youtube.com/watch?v=9pKg_C6C43E) 
 
 
 
