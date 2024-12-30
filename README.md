@@ -1,12 +1,10 @@
-# SIH-2023
-## Smart India Hackathon 2023 
-## Team Ace - squad 
+# News Analysis 
+## Team Empty Road 
 
 # Project Name: 
-## Automated Crawling, Categorization and Sentiment Analysis of Digital News with Incorporated Feedback System. 
-
-## Problem Statement- 1329
-The project addresses the need for a 360-degree feedback software for monitoring Government of India-related news stories in regional media using Artificial Intelligence and Machine Learning.
+## News and Information Track
+## Problem Statement: Design and implement a news aggregator application that curates and
+shares news from local sources, enhancing community awareness. The solution should:
 
 ## Solution Proposed
 We've developed a smart system that automatically scrapes news from numerous sources across the internet including text articles as well as video news. After fetching these articles, these are then classified into categories of which ministry’s jurisdiction they come under followed by their sentiment analysis as positive, neutral, or negative scores are assigned to each news article fetched. If negative news is detected, alerts are sent to the respective government department through their concerned email address. This system keeps the government updated with news events and allows for quick responses when needed. The news are then displayed on a visually appealing and easy to use user-friendly interface where user can refresh and load the latest news when required. If not refreshed manually, the news is automatically refreshed after every hour. Option to fetch news articles in Engish, Hindi and multiple regional languages has been provided.
