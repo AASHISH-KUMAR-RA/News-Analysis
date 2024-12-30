@@ -1,8 +1,7 @@
 # News Analysis 
 ## Team Empty Road 
 
-# Project Name: 
-## News and Information Track
+# Project Name: News Analysis
 ## Problem Statement: Design and implement a news aggregator application that curates and
 shares news from local sources, enhancing community awareness. The solution should:
 
