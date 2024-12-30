@@ -69,8 +69,6 @@ python manage.py runserver
 <br>
 ![Frontend](Frontend_C.png) <br>
 
-[Screenshots Link](https://www.canva.com/design/DAGamHdsaIE/3ZGq9VjXErvdVlJasIxUJA/edit)
-
 
 ## Project Links  
 
